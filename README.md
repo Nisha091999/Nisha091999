@@ -11,7 +11,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
 <br><br>
----
 
 - 🔭 I’m currently learning Python on Udemy - [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?couponCode=OF52424)
 
@@ -23,7 +22,7 @@
 
 - 📫 How to reach me **nishanthi9000@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/18HTZeOGZ6XB0rz77fHGLXIRNha45V2xd/view?usp=sharing)
+- 📄 Know about me  - [here](https://drive.google.com/file/d/18HTZeOGZ6XB0rz77fHGLXIRNha45V2xd/view?usp=sharing)
 
 
 
