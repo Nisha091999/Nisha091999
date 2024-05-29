@@ -4,13 +4,9 @@
 <h1 align="center">Hi 👋, I'm Nishanthi S</h1>
 <h3 align="center">A Passionate Python and Full-Stack Developer from India</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nisha091999&label=Profile%20views&color=0e75b6&style=flat" alt="nisha091999" />
-</p>
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 <br><br>
+
 
 - 🔭 I’m currently learning Python on Udemy - [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?couponCode=OF52424)
 
