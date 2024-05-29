@@ -86,7 +86,5 @@
 ## 📬 Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/nishanthi-s-371718273/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
-  </a>
+<a href = "https://www.linkedin.com/in/nishanthi-s-371718273"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
