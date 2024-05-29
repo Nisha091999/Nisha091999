@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently learning Python on Udemy - [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?couponCode=OF52424)
 
-- 🌱 I’m currently learning **AI, ML, and Django**
+- 🌱 My current interest **AI, ML, and Django**
 
 - 👯 I’m looking to collaborate on **Python and Web applications**
 
