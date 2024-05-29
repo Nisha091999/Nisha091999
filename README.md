@@ -22,13 +22,13 @@
 
 - 📫 How to reach me **nishanthi9000@gmail.com**
 
-- 📄 Know about me  - [here](https://drive.google.com/file/d/18HTZeOGZ6XB0rz77fHGLXIRNha45V2xd/view?usp=sharing)
+- 📄 Know about me  - [here](https://drive.google.com/file/d/18HTZeOGZ6XB0rz77fHGLXIRNha45V2xd/view?usp=sharing) 👣	
 
 
 
 ---
 
-## Languages and Tools: 
+## 💭 Languages and Tools: 
 
   <h3 class="web-tech" align="center">Web Technologies</h3>
   <div align="center">
