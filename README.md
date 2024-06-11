@@ -90,3 +90,8 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/nishanthi-s-371718273"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&widht=1000&section=footer"/>
+</p>
