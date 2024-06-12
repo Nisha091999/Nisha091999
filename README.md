@@ -1,13 +1,14 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" width="1000" style="height: 350px;">
 <br><br>
 
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-<br>
+
 <h1 align="center">Hi 👋, I'm Nishanthi S</h1>
 <h3 align="center">A Passionate Python and Full-Stack Developer from India</h3>
+
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hoooolllloooooo!!;Welcome+to+my+profile!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
+
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FAnmol-Baranwal&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
 </div>
