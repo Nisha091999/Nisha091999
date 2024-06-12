@@ -92,7 +92,7 @@
 
 
   <a href="https://dev.to/nishanthi_s">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" style="width: 50px; height: 50px; border-radius: 10px;" />
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" style="width: 45px; height: 45px;" />
   </a>
 </p>
 
