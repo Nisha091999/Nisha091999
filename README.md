@@ -87,20 +87,6 @@
 </p>
 
 
----
-## 📬 Connect with me:
-
-<p align="left">
-<a href = "https://www.linkedin.com/in/nishanthi-s-371718273"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
-
-  <a href="https://dev.to/nishanthi_s">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" style="width: 45px; height: 45px;" />
-  </a>
-</p>
-
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" style="width: 100%;" />
 </p>
