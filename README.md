@@ -9,9 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hoooolllloooooo!!;Welcome+to+my+profile!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
 
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FAnmol-Baranwal&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
-</div>
+
 <br><br> 
 
 
