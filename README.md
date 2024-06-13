@@ -6,7 +6,11 @@
 <h3 align="center">A Passionate Python and Full-Stack Developer from India</h3>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hoooolllloooooo!!;Welcome+to+my+profile!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hoooolllloooooo!!;Welcome+to+my+profile!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">    
+  <br><br>
+  <a href="https://dev.to/nishanthi_s"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209"  /></a>
+  <a href="https://www.linkedin.com/in/nishanthi-s-371718273/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"  /></a>
+  <a href="mailto:nishanthi9000@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
 </p>
 
 
@@ -100,3 +104,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" style="width: 100%;" />
 </p>
+
+
