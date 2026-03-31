@@ -2,7 +2,7 @@
 <br><br>
 
 
-<h1 align="center">Hi 👋, I'm Nishanthi S</h1>
+<h1 align="center">Hi 👋, I'm Nisha</h1>
 <h3 align="center">A Passionate Python and Full-Stack Developer from India</h3>
 
 <p align="center">
@@ -25,9 +25,9 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **nishanthi9000@gmail.com**
 
-- 📄 Know about me  - [here](https://drive.google.com/file/d/18HTZeOGZ6XB0rz77fHGLXIRNha45V2xd/view?usp=sharing) 👣	
+
+	
 
 
 
