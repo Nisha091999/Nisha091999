@@ -72,26 +72,4 @@
   </a>
 </div>
 
----
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nisha091999&show_icons=true&locale=en&layout=compact" alt="nisha091999" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nisha091999&show_icons=true&locale=en" alt="nisha091999" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisha091999&" alt="nisha091999" />
-</p>
-
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" style="width: 100%;" />
-</p>
-
 
